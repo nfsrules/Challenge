@@ -1,6 +1,6 @@
 # Spendesk challenge
 
-For more information about the challenge, please refer to the presention https://drive.google.com/file/d/1yq1kgfMJBj_JxxSQXKTn_5-stMQKVnp9/view?usp=sharing 
+For more information about the challenge, please refer to the slides https://drive.google.com/file/d/1yq1kgfMJBj_JxxSQXKTn_5-stMQKVnp9/view?usp=sharing 
 
 **Challenge files:**
   - Data preprocessing notebook
