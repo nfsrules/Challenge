@@ -10,4 +10,4 @@ For more information about the challenge, please refer to the presention https:/
 **Notes:**
   - A requirements.txt file is provided to install dependencies
   - Code is delivered on Jupyter Notebooks instead of Python scripts to improve lisibility
-  - Functions coded on Jupyter notebook instead of a source library to improve lisibility
+  - Functions are coded directly on Jupyter notebook instead of a source library to improve lisibility
